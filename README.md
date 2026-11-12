@@ -4,10 +4,11 @@ A GitHub Pages-ready graduation portfolio, with 89 locally stored photographs fr
 
 ## Publish on GitHub Pages
 
-1. Create a public repository named `andrewmchaty.github.io` in the `andrewmchaty` account (or use a different repository name for a project site).
-2. Upload the contents of this folder to the repository root, preserving the `assets` folder. Do not upload the ZIP itself or an enclosing folder.
-3. In **Settings → Pages**, choose **Deploy from a branch**, select **main** and **/ (root)**, and save.
-4. GitHub will show the published URL when deployment completes. For the suggested repository, it is `https://andrewmchaty.github.io/`.
+Repository: https://github.com/andrewmchaty/graduation-website
+
+Site URL once GitHub Pages finishes deploying: https://andrewmchaty.github.io/graduation-website/
+
+In **Settings → Pages**, use **Deploy from a branch**, **main**, and **/ (root)**. Future commits to main update the site automatically.
 
 No framework, package installation, build step, or private credentials are needed. Relative asset paths support both account sites and project sites.
 
@@ -54,4 +55,4 @@ Run `python3 -m http.server 8765` from this folder, then visit http://localhost:
 
 ## Current verification and remaining setup
 
-Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is not live or end-to-end tested because no Formspree endpoint has been supplied. GitHub deployment is pending an accessible repository or browser sign-in. The site has not been published.
+Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is not live or end-to-end tested because no Formspree endpoint has been supplied. The site files have been uploaded to the GitHub repository. Review collection remains disabled until the Formspree endpoint is configured and tested.
