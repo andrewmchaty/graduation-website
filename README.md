@@ -6,7 +6,9 @@ A GitHub Pages-ready graduation portfolio, with 89 locally stored photographs fr
 
 Repository: https://github.com/andrewmchaty/graduation-website
 
-Site URL once GitHub Pages finishes deploying: https://andrewmchaty.github.io/graduation-website/
+Live site: https://www.astrodrews.com/graduation-website/
+
+The GitHub Pages address https://andrewmchaty.github.io/graduation-website/ redirects to the account’s existing custom domain.
 
 In **Settings → Pages**, use **Deploy from a branch**, **main**, and **/ (root)**. Future commits to main update the site automatically.
 
@@ -55,4 +57,4 @@ Run `python3 -m http.server 8765` from this folder, then visit http://localhost:
 
 ## Current verification and remaining setup
 
-Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is not live or end-to-end tested because no Formspree endpoint has been supplied. The site files have been uploaded to the GitHub repository. Review collection remains disabled until the Formspree endpoint is configured and tested.
+Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is not live or end-to-end tested because no Formspree endpoint has been supplied. The site is deployed on GitHub Pages and the live portfolio was verified in the browser. Review collection remains disabled until the Formspree endpoint is configured and tested.
