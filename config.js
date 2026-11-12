@@ -1,2 +1,2 @@
-// Add your Formspree form URL to enable review submissions. No secret keys belong here.
-window.SITE_CONFIG = { reviewEndpoint: "" };
+// Public Formspree endpoint. Review publication remains manual after approval.
+window.SITE_CONFIG = { reviewEndpoint: "https://formspree.io/f/xnpdndyr" };

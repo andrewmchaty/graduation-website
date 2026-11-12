@@ -18,7 +18,7 @@ GitHub instructions: https://docs.github.com/en/pages/getting-started-with-githu
 
 ## Enable review submissions
 
-GitHub Pages cannot store incoming form submissions by itself. The form is intentionally disabled until a real receiving service is connected; it never pretends to save reviews in a visitor's browser.
+GitHub Pages cannot store incoming form submissions by itself. The form is connected to `https://formspree.io/f/xnpdndyr`. Submissions go to Formspree for private review; they are not automatically published.
 
 1. Create a form in your Formspree account at https://formspree.io/ and verify its receiving email as required.
 2. Copy its public form endpoint, such as `https://formspree.io/f/yourFormId`.
@@ -57,4 +57,4 @@ Run `python3 -m http.server 8765` from this folder, then visit http://localhost:
 
 ## Current verification and remaining setup
 
-Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is not live or end-to-end tested because no Formspree endpoint has been supplied. The site is deployed on GitHub Pages and the live portfolio was verified in the browser. Review collection remains disabled until the Formspree endpoint is configured and tested.
+Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is configured with the owner-provided Formspree endpoint. Actual delivery has not been tested with a submission. The site is deployed on GitHub Pages and the live portfolio was verified in the browser. The review form is enabled. Confirm delivery in the Formspree dashboard with a test submission before promoting it.
