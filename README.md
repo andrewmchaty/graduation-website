@@ -1,6 +1,6 @@
 # Andrew McHaty Photography
 
-A GitHub Pages-ready graduation portfolio, with 89 locally stored photographs from the existing Adobe Portfolio, six Square packages, and a review form prepared for Formspree.
+A GitHub Pages-ready graduation portfolio, with 405 locally stored photographs from the existing Adobe Portfolio and the supplied Berkeley folder, six Square packages, and a review form prepared for Formspree.
 
 ## Publish on GitHub Pages
 
@@ -42,7 +42,7 @@ When prices or packages change, update the matching package in `index.html`. The
 
 ## Photographs and maintenance
 
-`photos.json` lists the gallery images. `asset-sources.json` records their original public Adobe URLs. All 89 images were downloaded locally, so the new site does not need Adobe Portfolio to serve the images. Keep your original full-resolution photographs separately.
+`photos.json` lists the gallery images. `asset-sources.json` records their original public Adobe URLs. The original 89 images were downloaded locally, so the new site does not need Adobe Portfolio to serve the images. Keep your original full-resolution photographs separately.
 
 - `index.html`: page text and packages
 - `styles.css`: appearance and responsive layout
@@ -58,3 +58,11 @@ Run `python3 -m http.server 8765` from this folder, then visit http://localhost:
 ## Current verification and remaining setup
 
 Verified in browser: gallery loads, campus filter works, enlarged images and next-image navigation work, Escape closes the gallery. Photo files and JSON references checked locally. Review collection is configured with the owner-provided Formspree endpoint. Actual delivery has not been tested with a submission. The site is deployed on GitHub Pages and the live portfolio was verified in the browser. The review form is enabled. Confirm delivery in the Formspree dashboard with a test submission before promoting it.
+
+## Berkeley location galleries
+
+`locations.html` provides seven location filters and explicitly offers clients their own choice of locations. `locations.json` maps each displayed photo to a location, with featured images first. All 316 supplied photos are included in the main portfolio as optimized WebP files in `assets/berkeley-new/`; filenames match the originals. Original full-resolution files are not modified or uploaded.
+
+361 images are grouped across the requested locations. The 26 existing fountain/sculpture images remain in the main portfolio and are not forced into these groups. Doe Library includes both inside and outside images. Cherry-blossom examples use the two existing portfolio images.
+
+Location assignments are visual judgments and should be checked by the photographer. Some close-up and lawn assignments are provisional. A separate local review index was supplied with original filenames and notes; it is not part of the public site. To correct a location, update the matching entry in `locations.json` and its position in `overview` if necessary.

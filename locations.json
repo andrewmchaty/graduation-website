@@ -1,0 +1,2209 @@
+{
+  "locations": [
+    {
+      "id": "sather-gate",
+      "name": "Sather Gate",
+      "description": "The green arch, stone pillars, and familiar campus entrance."
+    },
+    {
+      "id": "campanile-field",
+      "name": "Campanile Field",
+      "description": "Open lawn portraits, with room to move and views toward the Campanile."
+    },
+    {
+      "id": "campbell",
+      "name": "Campbell Hall Rooftop/Telescope",
+      "description": "Rooftop views and telescope portraits. We\u2019ll confirm access when planning your session."
+    },
+    {
+      "id": "doe",
+      "name": "Doe Library [Inside/Outside]",
+      "description": "Choose the exterior architecture and stone railings, or the library interiors. Indoor plans depend on access and photography permissions."
+    },
+    {
+      "id": "campanile-around",
+      "name": "Campanile [Around Campus]",
+      "description": "Different perspectives on the tower from paths, terraces, and campus landmarks."
+    },
+    {
+      "id": "nature",
+      "name": "Nature Around Campus",
+      "description": "Tree-lined paths, leafy backgrounds, and quiet garden corners."
+    },
+    {
+      "id": "cherry-blossoms",
+      "name": "Cherry Blossoms",
+      "description": "Soft blossom-filled backgrounds when the trees are in bloom. Timing and conditions vary."
+    }
+  ],
+  "photos": [
+    {
+      "src": "assets/berkeley-new/DSC04190.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06492.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04414.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04028.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04033.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04042.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04046.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04049.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04075.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04126.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04128.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04130.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04131.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04196.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04201.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04202.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04223.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04232.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04236.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04249.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04274.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04276.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04361.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04362.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04373.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04391.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04396.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04413.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04418.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04419.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04423.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04428.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04430.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04437.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04441.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04455.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04461.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06527.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06542.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06610.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06613.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06615.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06623.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06628.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06637.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06658.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06679.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06685.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06689.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06712.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06714.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06741.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06755.webp",
+      "location": "sather-gate",
+      "alt": "Berkeley graduation portrait at Sather Gate by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04691.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04902.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04929.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04694.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04699.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04707.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04709.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04734.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04773.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04790.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04806.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04817.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04855.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04866.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04877.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04922.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04930.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04932.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04938.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04940.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04942.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04953.webp",
+      "location": "campanile-field",
+      "alt": "Berkeley graduation portrait at Campanile Field by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05026.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05073.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05125.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07329.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05027.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05032.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05035.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05053.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05058.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05065.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05068.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05076.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05078.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05100.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05127.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05128.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07290.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07295.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07298.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07305.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07314.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07316.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07317.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07323.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07326.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07335.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07338.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07344.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07345.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07351.webp",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-64.jpg",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-65.jpg",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-66.jpg",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-67.jpg",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-68.jpg",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-69.jpg",
+      "location": "campbell",
+      "alt": "Berkeley graduation portrait at Campbell Hall Rooftop/Telescope by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05136.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05703.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05770.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05890.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07358.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03839-Edit-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03842.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03846.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03852.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03996-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03999-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04007-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04015-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04020-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04026-2.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05142.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05143.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05151.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05153.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05165.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05172.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05175.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05177.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05181.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05183.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05184.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05193.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05203.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05235.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05244.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05252.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05257.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05259.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05263.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05268.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05272.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05353.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05361.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05362.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05366.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05368.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05468.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05469.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05491.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05517.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05539.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05545.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05565.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05590.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05594.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05646.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05662.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05710.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05720.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05725.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05727.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05737.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05743.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05774.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05786.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05793.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05808.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05810.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05815.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05834.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05835.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05840.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05854.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05861.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05893.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05895.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05897.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05901.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05940.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05943.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05950.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05955.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05957.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05966.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05970.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05984.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06022.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06024.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06028.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06036.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06042.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06049.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06056.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06060.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06099.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06103.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06125.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06137.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06142.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06186.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06233.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06252.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06260.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06263.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06290.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06300.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06312.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06317.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06321.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06334.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06338.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Inside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07363.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07366.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07369.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07374.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07378.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07388.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07389.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07392.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07394.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07400.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07403.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07406.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07415.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07425.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07426.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07433.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07434.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07443.webp",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-32.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-45.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-46.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-47.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-48.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-49.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-50.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-51.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-52.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-53.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-54.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-55.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-56.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-57.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-58.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-59.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-60.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-61.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-62.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-63.jpg",
+      "location": "doe",
+      "alt": "Berkeley graduation portrait at Doe Library \u2014 Outside by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03883.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05275.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06429.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03884-2.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC03891-2.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05289.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05305.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06344.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06352.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06359.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06364.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06373.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06376.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06379.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06383.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06432.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06453.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06454.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06457.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06464.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06472.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06486.webp",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-27.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-28.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-29.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-30.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-31.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-33.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-34.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-35.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-36.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-37.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-38.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-39.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-40.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-41.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-42.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-43.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-44.jpg",
+      "location": "campanile-around",
+      "alt": "Berkeley graduation portrait at Campanile [Around Campus] by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04482.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04653.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07051.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04492.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04539.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04548.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04579.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04580.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04599.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04612.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04615.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04635.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04640.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04658.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC04663.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05440.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05442.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC05452.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06763.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06770.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06790.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06792.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06793.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06826.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06864.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06888.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06892.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06905.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06909.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06911.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06923.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06925.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06926.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06931.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06942.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06946.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06968.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06976.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06987.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06989.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC06999.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07005.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07096.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07098.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07101.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07112.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07116.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07124.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07125.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07130.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07137.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07153.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07171.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07175.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07185.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07189.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07190.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07191.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07195.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07197.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07203.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07206.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07451.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07457.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-new/DSC07464.webp",
+      "location": "nature",
+      "alt": "Berkeley graduation portrait at Nature Around Campus by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-70.jpg",
+      "location": "cherry-blossoms",
+      "alt": "Berkeley graduation portrait at Cherry Blossoms by Andrew McHaty"
+    },
+    {
+      "src": "assets/berkeley-71.jpg",
+      "location": "cherry-blossoms",
+      "alt": "Berkeley graduation portrait at Cherry Blossoms by Andrew McHaty"
+    }
+  ],
+  "overview": [
+    "assets/berkeley-new/DSC04190.webp",
+    "assets/berkeley-new/DSC04691.webp",
+    "assets/berkeley-new/DSC05026.webp",
+    "assets/berkeley-new/DSC05136.webp",
+    "assets/berkeley-new/DSC03883.webp",
+    "assets/berkeley-new/DSC04482.webp",
+    "assets/berkeley-70.jpg",
+    "assets/berkeley-new/DSC06492.webp",
+    "assets/berkeley-new/DSC04902.webp",
+    "assets/berkeley-new/DSC05073.webp",
+    "assets/berkeley-new/DSC05703.webp",
+    "assets/berkeley-new/DSC05275.webp",
+    "assets/berkeley-new/DSC04653.webp",
+    "assets/berkeley-71.jpg",
+    "assets/berkeley-new/DSC04414.webp",
+    "assets/berkeley-new/DSC04929.webp",
+    "assets/berkeley-new/DSC05125.webp",
+    "assets/berkeley-new/DSC05770.webp",
+    "assets/berkeley-new/DSC06429.webp",
+    "assets/berkeley-new/DSC07051.webp",
+    "assets/berkeley-new/DSC04028.webp",
+    "assets/berkeley-new/DSC04694.webp",
+    "assets/berkeley-new/DSC07329.webp",
+    "assets/berkeley-new/DSC05890.webp",
+    "assets/berkeley-new/DSC03884-2.webp",
+    "assets/berkeley-new/DSC04492.webp",
+    "assets/berkeley-new/DSC04033.webp",
+    "assets/berkeley-new/DSC04699.webp",
+    "assets/berkeley-new/DSC05027.webp",
+    "assets/berkeley-new/DSC07358.webp",
+    "assets/berkeley-new/DSC03891-2.webp",
+    "assets/berkeley-new/DSC04539.webp",
+    "assets/berkeley-new/DSC04042.webp",
+    "assets/berkeley-new/DSC04707.webp",
+    "assets/berkeley-new/DSC05032.webp",
+    "assets/berkeley-new/DSC03839-Edit-2.webp",
+    "assets/berkeley-new/DSC05289.webp",
+    "assets/berkeley-new/DSC04548.webp",
+    "assets/berkeley-new/DSC04046.webp",
+    "assets/berkeley-new/DSC04709.webp",
+    "assets/berkeley-new/DSC05035.webp",
+    "assets/berkeley-new/DSC03842.webp",
+    "assets/berkeley-new/DSC05305.webp",
+    "assets/berkeley-new/DSC04579.webp",
+    "assets/berkeley-new/DSC04049.webp",
+    "assets/berkeley-new/DSC04734.webp",
+    "assets/berkeley-new/DSC05053.webp",
+    "assets/berkeley-new/DSC03846.webp",
+    "assets/berkeley-new/DSC06344.webp",
+    "assets/berkeley-new/DSC04580.webp",
+    "assets/berkeley-new/DSC04075.webp",
+    "assets/berkeley-new/DSC04773.webp",
+    "assets/berkeley-new/DSC05058.webp",
+    "assets/berkeley-new/DSC03852.webp",
+    "assets/berkeley-new/DSC06352.webp",
+    "assets/berkeley-new/DSC04599.webp",
+    "assets/berkeley-new/DSC04126.webp",
+    "assets/berkeley-new/DSC04790.webp",
+    "assets/berkeley-new/DSC05065.webp",
+    "assets/berkeley-new/DSC03996-2.webp",
+    "assets/berkeley-new/DSC06359.webp",
+    "assets/berkeley-new/DSC04612.webp",
+    "assets/berkeley-new/DSC04128.webp",
+    "assets/berkeley-new/DSC04806.webp",
+    "assets/berkeley-new/DSC05068.webp",
+    "assets/berkeley-new/DSC03999-2.webp",
+    "assets/berkeley-new/DSC06364.webp",
+    "assets/berkeley-new/DSC04615.webp",
+    "assets/berkeley-new/DSC04130.webp",
+    "assets/berkeley-new/DSC04817.webp",
+    "assets/berkeley-new/DSC05076.webp",
+    "assets/berkeley-new/DSC04007-2.webp",
+    "assets/berkeley-new/DSC06373.webp",
+    "assets/berkeley-new/DSC04635.webp",
+    "assets/berkeley-new/DSC04131.webp",
+    "assets/berkeley-new/DSC04855.webp",
+    "assets/berkeley-new/DSC05078.webp",
+    "assets/berkeley-new/DSC04015-2.webp",
+    "assets/berkeley-new/DSC06376.webp",
+    "assets/berkeley-new/DSC04640.webp",
+    "assets/berkeley-new/DSC04196.webp",
+    "assets/berkeley-new/DSC04866.webp",
+    "assets/berkeley-new/DSC05100.webp",
+    "assets/berkeley-new/DSC04020-2.webp",
+    "assets/berkeley-new/DSC06379.webp",
+    "assets/berkeley-new/DSC04658.webp",
+    "assets/berkeley-new/DSC04201.webp",
+    "assets/berkeley-new/DSC04877.webp",
+    "assets/berkeley-new/DSC05127.webp",
+    "assets/berkeley-new/DSC04026-2.webp",
+    "assets/berkeley-new/DSC06383.webp",
+    "assets/berkeley-new/DSC04663.webp",
+    "assets/berkeley-new/DSC04202.webp",
+    "assets/berkeley-new/DSC04922.webp",
+    "assets/berkeley-new/DSC05128.webp",
+    "assets/berkeley-new/DSC05142.webp",
+    "assets/berkeley-new/DSC06432.webp",
+    "assets/berkeley-new/DSC05440.webp",
+    "assets/berkeley-new/DSC04223.webp",
+    "assets/berkeley-new/DSC04930.webp",
+    "assets/berkeley-new/DSC07290.webp",
+    "assets/berkeley-new/DSC05143.webp",
+    "assets/berkeley-new/DSC06453.webp",
+    "assets/berkeley-new/DSC05442.webp",
+    "assets/berkeley-new/DSC04232.webp",
+    "assets/berkeley-new/DSC04932.webp",
+    "assets/berkeley-new/DSC07295.webp",
+    "assets/berkeley-new/DSC05151.webp",
+    "assets/berkeley-new/DSC06454.webp",
+    "assets/berkeley-new/DSC05452.webp",
+    "assets/berkeley-new/DSC04236.webp",
+    "assets/berkeley-new/DSC04938.webp",
+    "assets/berkeley-new/DSC07298.webp",
+    "assets/berkeley-new/DSC05153.webp",
+    "assets/berkeley-new/DSC06457.webp",
+    "assets/berkeley-new/DSC06763.webp",
+    "assets/berkeley-new/DSC04249.webp",
+    "assets/berkeley-new/DSC04940.webp",
+    "assets/berkeley-new/DSC07305.webp",
+    "assets/berkeley-new/DSC05165.webp",
+    "assets/berkeley-new/DSC06464.webp",
+    "assets/berkeley-new/DSC06770.webp",
+    "assets/berkeley-new/DSC04274.webp",
+    "assets/berkeley-new/DSC04942.webp",
+    "assets/berkeley-new/DSC07314.webp",
+    "assets/berkeley-new/DSC05172.webp",
+    "assets/berkeley-new/DSC06472.webp",
+    "assets/berkeley-new/DSC06790.webp",
+    "assets/berkeley-new/DSC04276.webp",
+    "assets/berkeley-new/DSC04953.webp",
+    "assets/berkeley-new/DSC07316.webp",
+    "assets/berkeley-new/DSC05175.webp",
+    "assets/berkeley-new/DSC06486.webp",
+    "assets/berkeley-new/DSC06792.webp",
+    "assets/berkeley-new/DSC04361.webp",
+    "assets/berkeley-new/DSC07317.webp",
+    "assets/berkeley-new/DSC05177.webp",
+    "assets/berkeley-27.jpg",
+    "assets/berkeley-new/DSC06793.webp",
+    "assets/berkeley-new/DSC04362.webp",
+    "assets/berkeley-new/DSC07323.webp",
+    "assets/berkeley-new/DSC05181.webp",
+    "assets/berkeley-28.jpg",
+    "assets/berkeley-new/DSC06826.webp",
+    "assets/berkeley-new/DSC04373.webp",
+    "assets/berkeley-new/DSC07326.webp",
+    "assets/berkeley-new/DSC05183.webp",
+    "assets/berkeley-29.jpg",
+    "assets/berkeley-new/DSC06864.webp",
+    "assets/berkeley-new/DSC04391.webp",
+    "assets/berkeley-new/DSC07335.webp",
+    "assets/berkeley-new/DSC05184.webp",
+    "assets/berkeley-30.jpg",
+    "assets/berkeley-new/DSC06888.webp",
+    "assets/berkeley-new/DSC04396.webp",
+    "assets/berkeley-new/DSC07338.webp",
+    "assets/berkeley-new/DSC05193.webp",
+    "assets/berkeley-31.jpg",
+    "assets/berkeley-new/DSC06892.webp",
+    "assets/berkeley-new/DSC04413.webp",
+    "assets/berkeley-new/DSC07344.webp",
+    "assets/berkeley-new/DSC05203.webp",
+    "assets/berkeley-33.jpg",
+    "assets/berkeley-new/DSC06905.webp",
+    "assets/berkeley-new/DSC04418.webp",
+    "assets/berkeley-new/DSC07345.webp",
+    "assets/berkeley-new/DSC05235.webp",
+    "assets/berkeley-34.jpg",
+    "assets/berkeley-new/DSC06909.webp",
+    "assets/berkeley-new/DSC04419.webp",
+    "assets/berkeley-new/DSC07351.webp",
+    "assets/berkeley-new/DSC05244.webp",
+    "assets/berkeley-35.jpg",
+    "assets/berkeley-new/DSC06911.webp",
+    "assets/berkeley-new/DSC04423.webp",
+    "assets/berkeley-64.jpg",
+    "assets/berkeley-new/DSC05252.webp",
+    "assets/berkeley-36.jpg",
+    "assets/berkeley-new/DSC06923.webp",
+    "assets/berkeley-new/DSC04428.webp",
+    "assets/berkeley-65.jpg",
+    "assets/berkeley-new/DSC05257.webp",
+    "assets/berkeley-37.jpg",
+    "assets/berkeley-new/DSC06925.webp",
+    "assets/berkeley-new/DSC04430.webp",
+    "assets/berkeley-66.jpg",
+    "assets/berkeley-new/DSC05259.webp",
+    "assets/berkeley-38.jpg",
+    "assets/berkeley-new/DSC06926.webp",
+    "assets/berkeley-new/DSC04437.webp",
+    "assets/berkeley-67.jpg",
+    "assets/berkeley-new/DSC05263.webp",
+    "assets/berkeley-39.jpg",
+    "assets/berkeley-new/DSC06931.webp",
+    "assets/berkeley-new/DSC04441.webp",
+    "assets/berkeley-68.jpg",
+    "assets/berkeley-new/DSC05268.webp",
+    "assets/berkeley-40.jpg",
+    "assets/berkeley-new/DSC06942.webp",
+    "assets/berkeley-new/DSC04455.webp",
+    "assets/berkeley-69.jpg",
+    "assets/berkeley-new/DSC05272.webp",
+    "assets/berkeley-41.jpg",
+    "assets/berkeley-new/DSC06946.webp",
+    "assets/berkeley-new/DSC04461.webp",
+    "assets/berkeley-new/DSC05353.webp",
+    "assets/berkeley-42.jpg",
+    "assets/berkeley-new/DSC06968.webp",
+    "assets/berkeley-new/DSC06527.webp",
+    "assets/berkeley-new/DSC05361.webp",
+    "assets/berkeley-43.jpg",
+    "assets/berkeley-new/DSC06976.webp",
+    "assets/berkeley-new/DSC06542.webp",
+    "assets/berkeley-new/DSC05362.webp",
+    "assets/berkeley-44.jpg",
+    "assets/berkeley-new/DSC06987.webp",
+    "assets/berkeley-new/DSC06610.webp",
+    "assets/berkeley-new/DSC05366.webp",
+    "assets/berkeley-new/DSC06989.webp",
+    "assets/berkeley-new/DSC06613.webp",
+    "assets/berkeley-new/DSC05368.webp",
+    "assets/berkeley-new/DSC06999.webp",
+    "assets/berkeley-new/DSC06615.webp",
+    "assets/berkeley-new/DSC05468.webp",
+    "assets/berkeley-new/DSC07005.webp",
+    "assets/berkeley-new/DSC06623.webp",
+    "assets/berkeley-new/DSC05469.webp",
+    "assets/berkeley-new/DSC07096.webp",
+    "assets/berkeley-new/DSC06628.webp",
+    "assets/berkeley-new/DSC05491.webp",
+    "assets/berkeley-new/DSC07098.webp",
+    "assets/berkeley-new/DSC06637.webp",
+    "assets/berkeley-new/DSC05517.webp",
+    "assets/berkeley-new/DSC07101.webp",
+    "assets/berkeley-new/DSC06658.webp",
+    "assets/berkeley-new/DSC05539.webp",
+    "assets/berkeley-new/DSC07112.webp",
+    "assets/berkeley-new/DSC06679.webp",
+    "assets/berkeley-new/DSC05545.webp",
+    "assets/berkeley-new/DSC07116.webp",
+    "assets/berkeley-new/DSC06685.webp",
+    "assets/berkeley-new/DSC05565.webp",
+    "assets/berkeley-new/DSC07124.webp",
+    "assets/berkeley-new/DSC06689.webp",
+    "assets/berkeley-new/DSC05590.webp",
+    "assets/berkeley-new/DSC07125.webp",
+    "assets/berkeley-new/DSC06712.webp",
+    "assets/berkeley-new/DSC05594.webp",
+    "assets/berkeley-new/DSC07130.webp",
+    "assets/berkeley-new/DSC06714.webp",
+    "assets/berkeley-new/DSC05646.webp",
+    "assets/berkeley-new/DSC07137.webp",
+    "assets/berkeley-new/DSC06741.webp",
+    "assets/berkeley-new/DSC05662.webp",
+    "assets/berkeley-new/DSC07153.webp",
+    "assets/berkeley-new/DSC06755.webp",
+    "assets/berkeley-new/DSC05710.webp",
+    "assets/berkeley-new/DSC07171.webp",
+    "assets/berkeley-new/DSC05720.webp",
+    "assets/berkeley-new/DSC07175.webp",
+    "assets/berkeley-new/DSC05725.webp",
+    "assets/berkeley-new/DSC07185.webp",
+    "assets/berkeley-new/DSC05727.webp",
+    "assets/berkeley-new/DSC07189.webp",
+    "assets/berkeley-new/DSC05737.webp",
+    "assets/berkeley-new/DSC07190.webp",
+    "assets/berkeley-new/DSC05743.webp",
+    "assets/berkeley-new/DSC07191.webp",
+    "assets/berkeley-new/DSC05774.webp",
+    "assets/berkeley-new/DSC07195.webp",
+    "assets/berkeley-new/DSC05786.webp",
+    "assets/berkeley-new/DSC07197.webp",
+    "assets/berkeley-new/DSC05793.webp",
+    "assets/berkeley-new/DSC07203.webp",
+    "assets/berkeley-new/DSC05808.webp",
+    "assets/berkeley-new/DSC07206.webp",
+    "assets/berkeley-new/DSC05810.webp",
+    "assets/berkeley-new/DSC07451.webp",
+    "assets/berkeley-new/DSC05815.webp",
+    "assets/berkeley-new/DSC07457.webp",
+    "assets/berkeley-new/DSC05834.webp",
+    "assets/berkeley-new/DSC07464.webp",
+    "assets/berkeley-new/DSC05835.webp",
+    "assets/berkeley-new/DSC05840.webp",
+    "assets/berkeley-new/DSC05854.webp",
+    "assets/berkeley-new/DSC05861.webp",
+    "assets/berkeley-new/DSC05893.webp",
+    "assets/berkeley-new/DSC05895.webp",
+    "assets/berkeley-new/DSC05897.webp",
+    "assets/berkeley-new/DSC05901.webp",
+    "assets/berkeley-new/DSC05940.webp",
+    "assets/berkeley-new/DSC05943.webp",
+    "assets/berkeley-new/DSC05950.webp",
+    "assets/berkeley-new/DSC05955.webp",
+    "assets/berkeley-new/DSC05957.webp",
+    "assets/berkeley-new/DSC05966.webp",
+    "assets/berkeley-new/DSC05970.webp",
+    "assets/berkeley-new/DSC05984.webp",
+    "assets/berkeley-new/DSC06022.webp",
+    "assets/berkeley-new/DSC06024.webp",
+    "assets/berkeley-new/DSC06028.webp",
+    "assets/berkeley-new/DSC06036.webp",
+    "assets/berkeley-new/DSC06042.webp",
+    "assets/berkeley-new/DSC06049.webp",
+    "assets/berkeley-new/DSC06056.webp",
+    "assets/berkeley-new/DSC06060.webp",
+    "assets/berkeley-new/DSC06099.webp",
+    "assets/berkeley-new/DSC06103.webp",
+    "assets/berkeley-new/DSC06125.webp",
+    "assets/berkeley-new/DSC06137.webp",
+    "assets/berkeley-new/DSC06142.webp",
+    "assets/berkeley-new/DSC06186.webp",
+    "assets/berkeley-new/DSC06233.webp",
+    "assets/berkeley-new/DSC06252.webp",
+    "assets/berkeley-new/DSC06260.webp",
+    "assets/berkeley-new/DSC06263.webp",
+    "assets/berkeley-new/DSC06290.webp",
+    "assets/berkeley-new/DSC06300.webp",
+    "assets/berkeley-new/DSC06312.webp",
+    "assets/berkeley-new/DSC06317.webp",
+    "assets/berkeley-new/DSC06321.webp",
+    "assets/berkeley-new/DSC06334.webp",
+    "assets/berkeley-new/DSC06338.webp",
+    "assets/berkeley-new/DSC07363.webp",
+    "assets/berkeley-new/DSC07366.webp",
+    "assets/berkeley-new/DSC07369.webp",
+    "assets/berkeley-new/DSC07374.webp",
+    "assets/berkeley-new/DSC07378.webp",
+    "assets/berkeley-new/DSC07388.webp",
+    "assets/berkeley-new/DSC07389.webp",
+    "assets/berkeley-new/DSC07392.webp",
+    "assets/berkeley-new/DSC07394.webp",
+    "assets/berkeley-new/DSC07400.webp",
+    "assets/berkeley-new/DSC07403.webp",
+    "assets/berkeley-new/DSC07406.webp",
+    "assets/berkeley-new/DSC07415.webp",
+    "assets/berkeley-new/DSC07425.webp",
+    "assets/berkeley-new/DSC07426.webp",
+    "assets/berkeley-new/DSC07433.webp",
+    "assets/berkeley-new/DSC07434.webp",
+    "assets/berkeley-new/DSC07443.webp",
+    "assets/berkeley-32.jpg",
+    "assets/berkeley-45.jpg",
+    "assets/berkeley-46.jpg",
+    "assets/berkeley-47.jpg",
+    "assets/berkeley-48.jpg",
+    "assets/berkeley-49.jpg",
+    "assets/berkeley-50.jpg",
+    "assets/berkeley-51.jpg",
+    "assets/berkeley-52.jpg",
+    "assets/berkeley-53.jpg",
+    "assets/berkeley-54.jpg",
+    "assets/berkeley-55.jpg",
+    "assets/berkeley-56.jpg",
+    "assets/berkeley-57.jpg",
+    "assets/berkeley-58.jpg",
+    "assets/berkeley-59.jpg",
+    "assets/berkeley-60.jpg",
+    "assets/berkeley-61.jpg",
+    "assets/berkeley-62.jpg",
+    "assets/berkeley-63.jpg"
+  ]
+}
